@@ -1,0 +1,9 @@
+{
+  "name": "movieQlApi",
+  "description": "Movie Api with GraphQl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/likelionWonHo/movieQlApi",
+  "author": "Wonho Kim",
+  "license": "MIT"
+}

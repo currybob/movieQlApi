@@ -4,7 +4,7 @@ type Movie {
   rating: Float!
   summary: String
   language: String
-  midium_cover_image: String
+  medium_cover_image: String
 }
 
 type Query {
